@@ -4,6 +4,17 @@ A toolkit for interacting with CrowdFlower via the REST API.
 
 This is alpha software. Have fun!
 
+Installation for Nate
+---------------------
+
+    git clone git@github.com:danchoi/ruby-crowdflower.git
+    cd ruby-crowdflower
+    bundle
+    rake install
+
+If the bundle command returns an error, try `gem install bundler` first.
+
+
 Example Usage
 -------------
 
